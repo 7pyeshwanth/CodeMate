@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upcoming Contests</title>
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Upcoming Contests</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Phase</th>
+      <th>Duration</th>
+      <th>Start Time</th>
+      <th>Countdown</th>
+    </tr>
+  </thead>
+  <tbody id="contestTable">
+    <!-- Rows will be inserted here dynamically -->
+  </tbody>
+</table>
+
+<script>
+// Data for the contests
+const contestData = {
+  "status": "OK",
+  "result": [
+    {
+      "id": 2028,
+      "name": "Codeforces Round (Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1731252900,
+      "relativeTimeSeconds": -2689333
+    },
+    {
+      "id": 2029,
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "type": "CF",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 10800,
+      "startTimeSeconds": 1731162900,
+      "relativeTimeSeconds": -2599333
+    },
+    {
+      "id": 2026,
+      "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
+      "type": "ICPC",
+      "phase": "BEFORE",
+      "frozen": false,
+      "durationSeconds": 7200,
+      "startTimeSeconds": 1730126100,
+      "relativeTimeSeconds": -1562533
+    }
+  ]
+};
+
+// Helper function to format time
+function formatTime(seconds) {
+  const d = Math.floor(seconds / (3600 * 24));
+  const h = Math.floor((seconds % (3600 * 24)) / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  const s = Math.floor(seconds % 60);
+  return `${d}d ${h}h ${m}m ${s}s`;
+}
+
+// Function to update the countdown and table
+function updateTable() {
+  const tableBody = document.getElementById("contestTable");
+  tableBody.innerHTML = ""; // Clear previous rows
+
+  const currentTimeSeconds = Math.floor(Date.now() / 1000);
+
+  contestData.result.forEach(contest => {
+    const row = document.createElement("tr");
+
+    // Create table cells
+    const idCell = document.createElement("td");
+    idCell.textContent = contest.id;
+    
+    const nameCell = document.createElement("td");
+    nameCell.textContent = contest.name;
+    
+    const typeCell = document.createElement("td");
+    typeCell.textContent = contest.type;
+    
+    const phaseCell = document.createElement("td");
+    phaseCell.textContent = contest.phase;
+    
+    const durationCell = document.createElement("td");
+    durationCell.textContent = `${Math.floor(contest.durationSeconds / 3600)}h ${Math.floor((contest.durationSeconds % 3600) / 60)}m`;
+    
+    const startTimeCell = document.createElement("td");
+    const startTime = new Date(contest.startTimeSeconds * 1000);
+    startTimeCell.textContent = startTime.toLocaleString();
+    
+    const countdownCell = document.createElement("td");
+    const remainingTime = contest.startTimeSeconds - currentTimeSeconds;
+    
+    // Check if the contest has already started
+    if (remainingTime > 0) {
+      countdownCell.textContent = formatTime(remainingTime);
+    } else {
+      countdownCell.textContent = "Started";
+    }
+
+    // Append cells to the row
+    row.appendChild(idCell);
+    row.appendChild(nameCell);
+    row.appendChild(typeCell);
+    row.appendChild(phaseCell);
+    row.appendChild(durationCell);
+    row.appendChild(startTimeCell);
+    row.appendChild(countdownCell);
+
+    // Append the row to the table body
+    tableBody.appendChild(row);
+  });
+}
+
+// Update the table every second
+setInterval(updateTable, 1000);
+</script>
+
+</body>
+</html>

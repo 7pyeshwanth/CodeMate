@@ -1,0 +1,14 @@
+                          Name  ...                                              Link
+1                    Chip Game  ...  https://codeforces.com/problemset/problem/1719/A
+2                Business trip  ...   https://codeforces.com/problemset/problem/149/A
+3             Candies Division  ...  https://codeforces.com/problemset/problem/1283/B
+4              Vasya and Socks  ...   https://codeforces.com/problemset/problem/460/A
+5        Hexadecimal's theorem  ...   https://codeforces.com/problemset/problem/199/A
+..                         ...  ...                                               ...
+178          Maximum Substring  ...  https://codeforces.com/problemset/problem/1750/B
+179    Rudolph and Tic-Tac-Toe  ...  https://codeforces.com/problemset/problem/1846/B
+180  Rudolph and Cut the Rope   ...  https://codeforces.com/problemset/problem/1846/A
+181                 Love Story  ...  https://codeforces.com/problemset/problem/1829/A
+182            Game with Board  ...  https://codeforces.com/problemset/problem/1841/A
+
+[182 rows x 4 columns]

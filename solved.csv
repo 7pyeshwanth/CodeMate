@@ -1,0 +1,206 @@
+,name,rating,tags
+1719/A,Chip Game,800,"games,math"
+149/A,Business trip,900,"greedy,implementation,sortings"
+1283/B,Candies Division,900,math
+460/A,Vasya and Socks,900,"brute force,implementation,math"
+199/A,Hexadecimal's theorem,900,"brute force,constructive algorithms,implementation,number theory"
+1291/A,Even But Not Even,900,"greedy,math,strings"
+275/A,Lights Out,900,implementation
+474/A,Keyboard,900,implementation
+205/A,Little Elephant and Rozdil,900,"brute force,implementation"
+556/A,Case of the Zeros and Ones,900,greedy
+1238/A,Prime Subtraction,900,"math,number theory"
+26/A,Almost Prime,900,number theory
+1213/A,Chips Moving,900,math
+1216/B,Shooting,900,"greedy,implementation,sortings"
+1095/B,Array Stabilization,900,implementation
+439/A,"Devu, the Singer and Churu, the Joker",900,"greedy,implementation"
+1141/B,Maximal Continuous Rest,900,implementation
+746/B,Decoding,900,"implementation,strings"
+1183/B,Equalize Prices,900,math
+1248/B,Grow The Tree,900,"greedy,math,sortings"
+501/A,Contest,900,implementation
+1509/A,Average Height,800,constructive algorithms
+1623/A,Robot Cleaner,800,"brute force,implementation,math"
+1551/B1,Wonderful Coloring - 1,800,"greedy,strings"
+1519/B,The Cake Is a Lie,800,"dp,math"
+1472/A,Cards for Friends,800,"greedy,math"
+1526/A,Mean Inequality,800,"constructive algorithms,sortings"
+1514/A,Perfectly Imperfect Array,800,"math,number theory"
+1611/A,Make Even,800,"constructive algorithms,math"
+1619/B,Squares and Cubes,800,"implementation,math"
+1539/B,Love Song,800,"dp,implementation,strings"
+1607/A,Linear Keyboard,800,"implementation,strings"
+1621/A,Stable Arrangement of Rooks,800,constructive algorithms
+1616/A,Integer Diversity,800,implementation
+1569/A,Balanced Substring,800,implementation
+1593/A,Elections,800,math
+1632/A,ABC,800,implementation
+1631/A,Min Max Swap,800,greedy
+1619/A,Square String?,800,"implementation,strings"
+1530/A,Binary Decimal,800,"greedy,math"
+1633/A,Div. 7,800,brute force
+1633/B,Minority,800,greedy
+1618/A,Polycarp and Sums of Subsequences,800,"math,sortings"
+1594/A,Consecutive Sum Riddle,800,math
+1615/A,Closing The Gap,800,"greedy,math"
+1574/A,Regular Bracket Sequences,800,constructive algorithms
+1562/A,The Miracle and the Sleeper,800,"greedy,math"
+1605/A,A.M. Deviation,800,"math,number theory"
+1506/A,Strange Table,800,math
+1473/A,Replacing Elements,800,"greedy,implementation,math,sortings"
+1604/A,Era,800,greedy
+1517/A,Sum of 2050,800,"greedy,math"
+1611/B,Team Composition: Programmers and Mathematicians,800,"binary search,constructive algorithms,math"
+1462/A,Favorite Sequence,800,"implementation,two pointers"
+1618/B,Missing Bigram,800,implementation
+1516/A,Tit for Tat,800,greedy
+1592/A,Gamer Hemose,800,"binary search,greedy,math,sortings"
+1598/A,Computer Game,800,"brute force,dfs and similar,dp,implementation"
+1515/A,Phoenix and Gold,800,"constructive algorithms,greedy,math"
+1617/A,Forbidden Subsequence,800,"constructive algorithms,greedy,sortings,strings"
+1512/B,Almost Rectangle,800,implementation
+1454/A,Special Permutation,800,"constructive algorithms,probabilities"
+1480/A,Yet Another String Game,800,"games,greedy,strings"
+1481/A,Space Navigation ,800,"greedy,strings"
+1573/A,Countdown,800,greedy
+1810/B,Candies,800,"constructive algorithms,math,number theory"
+1478/A,Nezzar and Colorful Balls,800,"brute force,greedy"
+1497/A,Meximization,800,"brute force,data structures,greedy,sortings"
+1810/A,Beautiful Sequence,800,"brute force,greedy"
+1807/A,Plus or Minus,800,implementation
+1790/A,Polycarp and the Day of Pi,800,"implementation,math,strings"
+1774/A,Add Plus Minus Sign,800,"constructive algorithms,math"
+1829/B,Blank Space,800,implementation
+1772/B,Matrix Rotation,800,"brute force,implementation"
+1622/A,Construct a Rectangle,800,"geometry,math"
+1579/A,Casimir's String Solitaire,800,"math,strings"
+1626/A,Equidistant Letters,800,"constructive algorithms,sortings"
+1549/B,Gregor and the Pawn Game,800,"dfs and similar,dp,flows,graph matchings,graphs,greedy,implementation"
+1547/B,Alphabetical Strings,800,"greedy,implementation,strings"
+1624/A,Plus One on the Subset,800,math
+1512/A,Spy Detected!,800,"brute force,implementation"
+1560/B,Who's Opposite?,800,math
+1529/A,Eshag Loves Big Arrays,800,"constructive algorithms,greedy,math"
+1527/A,And Then There Were K,800,bitmasks
+1552/A,Subsequence Permutation,800,"sortings,strings"
+1602/A,Two Subsequences,800,implementation
+1409/A,Yet Another Two Integers Problem,800,"greedy,math"
+1547/A,Shortest Path with Obstacle,800,"implementation,math"
+1498/A,GCD Sum,800,"brute force,math"
+1399/A,Remove Smallest,800,"greedy,sortings"
+1541/A,Pretty Permutations,800,"constructive algorithms,greedy,implementation"
+1549/A,Gregor and Cryptography,800,"math,number theory"
+1554/A,Cherry,800,greedy
+1742/C,Stripes,900,implementation
+1550/A,Find The Array,800,"greedy,math"
+1747/B,BAN BAN,900,constructive algorithms
+1520/A,Do Not Be Distracted!,800,"brute force,implementation"
+231/A,Team,800,"brute force,greedy"
+1772/A,A+B?,800,implementation
+1760/C,Advantage,800,"data structures,implementation,sortings"
+1760/B,Atilla's Favorite Problem,800,"greedy,implementation,strings"
+1914/B,Preparing for the Contest,800,"constructive algorithms,math"
+1914/A,Problemsolving Log,800,"implementation,strings"
+1902/A,Binary Imbalance,800,constructive algorithms
+1736/A,Make A Equal to B,800,"brute force,greedy,sortings"
+1692/C,Where's the Bishop?,800,implementation
+1560/A,Dislike of Threes,800,implementation
+71/A,Way Too Long Words,800,strings
+1886/A,Sum of Three,800,"brute force,constructive algorithms,math"
+96/A,Football,900,"implementation,strings"
+1841/B,Keep it Beautiful,1000,implementation
+1728/A,Colored Balls: Revisited,800,"brute force,greedy,implementation,sortings"
+1703/C,Cypher,800,"brute force,implementation,strings"
+1504/A, Déjà Vu,800,"constructive algorithms,strings"
+1878/C,Vasilije in Cacak,900,math
+1878/B,Aleksa and Stack,800,"constructive algorithms,math"
+1878/A,How Much Does Daytona Cost?,800,greedy
+1759/A,Yes-Yes?,800,"implementation,strings"
+1760/A,Medium Number,800,"implementation,sortings"
+1731/A,Joey Takes Money,800,"greedy,math"
+1674/B,Dictionary,800,"combinatorics,math"
+1676/B,Equal Candies,800,"greedy,math,sortings"
+1433/A,Boring Apartments,800,"implementation,math"
+1882/A,Increasing Sequence,800,greedy
+1791/B,Following Directions,800,"geometry,implementation"
+1791/A,Codeforces Checking,800,"implementation,strings"
+1725/A,Accumulation of Dominoes,800,math
+1692/B,All Distinct,800,"greedy,sortings"
+1722/A,Spell Check,800,implementation
+1557/A,Ezzat and Two Subsequences,800,"brute force,math,sortings"
+894/A,QAQ,800,"brute force,dp"
+1748/A,The Ultimate Square,800,math
+1538/A,Stone Game,800,"brute force,dp,greedy"
+702/A,Maximum Increase,800,"dp,greedy,implementation"
+1472/B,Fair Division,800,"dp,greedy,math"
+996/A,Hit the Lottery,800,"dp,greedy"
+1739/A,Immobile Knight,800,implementation
+1535/A,Fair Playoff,800,"brute force,implementation"
+1553/A,Digits Sum,800,"math,number theory"
+1690/A,Print a Pedestal (Codeforces logo?),800,"constructive algorithms,greedy"
+1712/B,Woeful Permutation,800,"constructive algorithms,greedy,number theory"
+1690/C,Restoring the Duration of Tasks,800,"data structures,greedy,implementation"
+1703/B,ICPC Balloons,800,"data structures,implementation"
+1690/B,Array Decrements,800,"greedy,implementation"
+1692/A,Marathon,800,implementation
+1703/A,YES or YES?,800,"brute force,implementation,strings"
+1721/A,Image,800,"greedy,implementation"
+1722/C,Word Game,800,"data structures,implementation"
+1741/A,Compare T-Shirt Sizes,800,"implementation,implementation,strings"
+1741/B,Funny Permutation,800,"constructive algorithms,math"
+1742/A,Sum,800,implementation
+1742/B,Increasing,800,"greedy,implementation,sortings"
+1743/A,Password,800,"brute force,combinatorics,implementation,math"
+1744/A,Number Replacement,800,"greedy,implementation"
+1722/B,Colourblindness,800,implementation
+1744/B,Even-Odd Increments ,800,"implementation,math"
+1743/B,Permutation Value,800,"constructive algorithms,greedy"
+4/A,Watermelon,800,"brute force,math"
+1746/A,Maxmina,800,"constructive algorithms,greedy"
+1746/B,Rebellion,800,"constructive algorithms,greedy,two pointers"
+1747/A,Two Groups,800,"constructive algorithms,greedy"
+1749/A,Cowardly Rooks,800,"greedy,implementation"
+1754/A,Technical Support,800,greedy
+1754/B,Kevin and Permutation,800,"constructive algorithms,greedy,math"
+1542/A,Odd Set,800,math
+1551/A,Polycarp and Coins,800,"greedy,math"
+1537/A,Arithmetic Array,800,"greedy,math"
+1857/A,Array Coloring,800,"greedy,math"
+1856/A,Tales of a Sort,800,implementation
+1856/B,Good Arrays,900,"implementation,math"
+1855/B,Longest Divisors Interval,900,"brute force,combinatorics,greedy,math,number theory"
+1855/A,Dalton the Teacher,800,"greedy,math"
+1851/B,Parity Sort,800,"greedy,sortings,two pointers"
+1850/D,Balanced Round,900,"brute force,greedy,implementation,sortings"
+1844/B,Permutations & Primes,1000,"constructive algorithms,math"
+282/A,Bit++,800,implementation
+1850/C,Word on the Paper,800,"implementation,strings"
+1850/B,Ten Words of Wisdom,800,"implementation,sortings"
+1850/A,To My Critics,800,"implementation,sortings"
+1682/A,Palindromic Indices,800,"greedy,strings"
+1520/B,Ordinary Numbers,800,"brute force,math,number theory"
+1832/A,New Palindrome,800,strings
+1844/A,Subtraction Game,800,"constructive algorithms,games"
+1608/A,Find Array,800,"constructive algorithms,math"
+1750/A,Indirect Sort,800,"constructive algorithms,implementation,math"
+1750/B,Maximum Substring,800,"brute force,greedy,implementation"
+1846/C,Rudolf and the Another Competition,1200,"constructive algorithms,data structures,dp,greedy,sortings"
+1846/B,Rudolph and Tic-Tac-Toe,800,"brute force,implementation,strings"
+1846/A,Rudolph and Cut the Rope ,800,"implementation,math"
+1829/A,Love Story,800,"implementation,strings"
+1836/A,Destroyer,800,"implementation,sortings"
+1841/A,Game with Board,800,"constructive algorithms,games"
+1739/B,Array Recovery,1100,"constructive algorithms,greedy,math"
+1717/A,Madoka and Strange Thoughts,800,"math,number theory"
+405/A,Gravity Flip,900,"greedy,implementation,sortings"
+133/A,HQ9+,900,implementation
+160/A,Twins,900,"greedy,sortings"
+318/A,Even Odds,900,math
+1538/B,Friends and Candies,800,"greedy,math"
+1749/B,Death's Blessing,900,greedy
+1743/C,Save the Magazines,1100,"constructive algorithms,dp,greedy"
+1744/C,Traffic Light,1000,"binary search,implementation,two pointers"
+1746/C,Permutation Operations,1300,"constructive algorithms,greedy,implementation,math"
+1742/E,Scuza,1200,"binary search,greedy,math"
+1742/D,Coprime,1100,"brute force,greedy,number theory"

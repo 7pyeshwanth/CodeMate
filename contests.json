@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2028,
+    "name": "Codeforces Round (Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1731252900,
+    "relativeTimeSeconds": -2689333
+  },
+  {
+    "id": 2029,
+    "name": "Codeforces Round (Div. 1 + Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1731162900,
+    "relativeTimeSeconds": -2599333
+  },
+  {
+    "id": 2026,
+    "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1730126100,
+    "relativeTimeSeconds": -1562533
+  },
+  {
+    "id": 2027,
+    "name": "Codeforces Round (Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729953300,
+    "relativeTimeSeconds": -1389733
+  },
+  {
+    "id": 2023,
+    "name": "Codeforces Round (Div. 1)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729415100,
+    "relativeTimeSeconds": -851533
+  },
+  {
+    "id": 2024,
+    "name": "Codeforces Round (Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729415100,
+    "relativeTimeSeconds": -851533
+  },
+  {
+    "id": 2030,
+    "name": "Codeforces Round (Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1729346700,
+    "relativeTimeSeconds": -783133
+  },
+  {
+    "id": 2025,
+    "name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+    "type": "ICPC",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1728916500,
+    "relativeTimeSeconds": -352933
+  },
+  {
+    "id": 2022,
+    "name": "Codeforces Round 978 (Div. 2)",
+    "type": "CF",
+    "phase": "BEFORE",
+    "frozen": false,
+    "durationSeconds": 7200,
+    "startTimeSeconds": 1728848100,
+    "relativeTimeSeconds": -284533
+  }
+]

@@ -1,0 +1,6971 @@
+{
+  "1719/A": {
+    "name": "Chip Game",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "149/A": {
+    "name": "Business trip",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1283/B": {
+    "name": "Candies Division",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "460/A": {
+    "name": "Vasya and Socks",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "199/A": {
+    "name": "Hexadecimal's theorem",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "1291/A": {
+    "name": "Even But Not Even",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "275/A": {
+    "name": "Lights Out",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "474/A": {
+    "name": "Keyboard",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "205/A": {
+    "name": "Little Elephant and Rozdil",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "556/A": {
+    "name": "Case of the Zeros and Ones",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1238/A": {
+    "name": "Prime Subtraction",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "26/A": {
+    "name": "Almost Prime",
+    "rating": 900,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "1213/A": {
+    "name": "Chips Moving",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1216/B": {
+    "name": "Shooting",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1095/B": {
+    "name": "Array Stabilization",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "439/A": {
+    "name": "Devu, the Singer and Churu, the Joker",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1141/B": {
+    "name": "Maximal Continuous Rest",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "746/B": {
+    "name": "Decoding",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1183/B": {
+    "name": "Equalize Prices",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1248/B": {
+    "name": "Grow The Tree",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "501/A": {
+    "name": "Contest",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1509/A": {
+    "name": "Average Height",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1623/A": {
+    "name": "Robot Cleaner",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "1551/B1": {
+    "name": "Wonderful Coloring - 1",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1519/B": {
+    "name": "The Cake Is a Lie",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "math"
+    ]
+  },
+  "1472/A": {
+    "name": "Cards for Friends",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1526/A": {
+    "name": "Mean Inequality",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "1514/A": {
+    "name": "Perfectly Imperfect Array",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1611/A": {
+    "name": "Make Even",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1619/B": {
+    "name": "Squares and Cubes",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1539/B": {
+    "name": "Love Song",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1607/A": {
+    "name": "Linear Keyboard",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1621/A": {
+    "name": "Stable Arrangement of Rooks",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1616/A": {
+    "name": "Integer Diversity",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1569/A": {
+    "name": "Balanced Substring",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1593/A": {
+    "name": "Elections",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1632/A": {
+    "name": "ABC",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1631/A": {
+    "name": "Min Max Swap",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1619/A": {
+    "name": "Square String?",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1530/A": {
+    "name": "Binary Decimal",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1633/A": {
+    "name": "Div. 7",
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "1633/B": {
+    "name": "Minority",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1618/A": {
+    "name": "Polycarp and Sums of Subsequences",
+    "rating": 800,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "1594/A": {
+    "name": "Consecutive Sum Riddle",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1615/A": {
+    "name": "Closing The Gap",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1574/A": {
+    "name": "Regular Bracket Sequences",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1562/A": {
+    "name": "The Miracle and the Sleeper",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1605/A": {
+    "name": "A.M. Deviation",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1506/A": {
+    "name": "Strange Table",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1473/A": {
+    "name": "Replacing Elements",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "1604/A": {
+    "name": "Era",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1517/A": {
+    "name": "Sum of 2050",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1611/B": {
+    "name": "Team Composition: Programmers and Mathematicians",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1462/A": {
+    "name": "Favorite Sequence",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1618/B": {
+    "name": "Missing Bigram",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1516/A": {
+    "name": "Tit for Tat",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1592/A": {
+    "name": "Gamer Hemose",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1598/A": {
+    "name": "Computer Game",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ]
+  },
+  "1515/A": {
+    "name": "Phoenix and Gold",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1617/A": {
+    "name": "Forbidden Subsequence",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "1512/B": {
+    "name": "Almost Rectangle",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1454/A": {
+    "name": "Special Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "probabilities"
+    ]
+  },
+  "1480/A": {
+    "name": "Yet Another String Game",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1481/A": {
+    "name": "Space Navigation ",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1573/A": {
+    "name": "Countdown",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1810/B": {
+    "name": "Candies",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1478/A": {
+    "name": "Nezzar and Colorful Balls",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1497/A": {
+    "name": "Meximization",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1810/A": {
+    "name": "Beautiful Sequence",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1807/A": {
+    "name": "Plus or Minus",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1790/A": {
+    "name": "Polycarp and the Day of Pi",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "1774/A": {
+    "name": "Add Plus Minus Sign",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1829/B": {
+    "name": "Blank Space",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1772/B": {
+    "name": "Matrix Rotation",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1622/A": {
+    "name": "Construct a Rectangle",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "1579/A": {
+    "name": "Casimir's String Solitaire",
+    "rating": 800,
+    "tags": [
+      "math",
+      "strings"
+    ]
+  },
+  "1626/A": {
+    "name": "Equidistant Letters",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "1549/B": {
+    "name": "Gregor and the Pawn Game",
+    "rating": 800,
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1547/B": {
+    "name": "Alphabetical Strings",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1624/A": {
+    "name": "Plus One on the Subset",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1512/A": {
+    "name": "Spy Detected!",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1560/B": {
+    "name": "Who's Opposite?",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1529/A": {
+    "name": "Eshag Loves Big Arrays",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1527/A": {
+    "name": "And Then There Were K",
+    "rating": 800,
+    "tags": [
+      "bitmasks"
+    ]
+  },
+  "1552/A": {
+    "name": "Subsequence Permutation",
+    "rating": 800,
+    "tags": [
+      "sortings",
+      "strings"
+    ]
+  },
+  "1602/A": {
+    "name": "Two Subsequences",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1409/A": {
+    "name": "Yet Another Two Integers Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1547/A": {
+    "name": "Shortest Path with Obstacle",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1498/A": {
+    "name": "GCD Sum",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "1399/A": {
+    "name": "Remove Smallest",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1541/A": {
+    "name": "Pretty Permutations",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1549/A": {
+    "name": "Gregor and Cryptography",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1554/A": {
+    "name": "Cherry",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1742/C": {
+    "name": "Stripes",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1550/A": {
+    "name": "Find The Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1747/B": {
+    "name": "BAN BAN",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1520/A": {
+    "name": "Do Not Be Distracted!",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "231/A": {
+    "name": "Team",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1772/A": {
+    "name": "A+B?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1760/C": {
+    "name": "Advantage",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1760/B": {
+    "name": "Atilla's Favorite Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1914/B": {
+    "name": "Preparing for the Contest",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1914/A": {
+    "name": "Problemsolving Log",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1902/A": {
+    "name": "Binary Imbalance",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1736/A": {
+    "name": "Make A Equal to B",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1692/C": {
+    "name": "Where's the Bishop?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1560/A": {
+    "name": "Dislike of Threes",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "71/A": {
+    "name": "Way Too Long Words",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1886/A": {
+    "name": "Sum of Three",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "96/A": {
+    "name": "Football",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1841/B": {
+    "name": "Keep it Beautiful",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1728/A": {
+    "name": "Colored Balls: Revisited",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1703/C": {
+    "name": "Cypher",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1504/A": {
+    "name": " D\u00e9j\u00e0 Vu",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "1878/C": {
+    "name": "Vasilije in Cacak",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1878/B": {
+    "name": "Aleksa and Stack",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1878/A": {
+    "name": "How Much Does Daytona Cost?",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1759/A": {
+    "name": "Yes-Yes?",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1760/A": {
+    "name": "Medium Number",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1731/A": {
+    "name": "Joey Takes Money",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1674/B": {
+    "name": "Dictionary",
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "1676/B": {
+    "name": "Equal Candies",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1433/A": {
+    "name": "Boring Apartments",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1882/A": {
+    "name": "Increasing Sequence",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1791/B": {
+    "name": "Following Directions",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "1791/A": {
+    "name": "Codeforces Checking",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1725/A": {
+    "name": "Accumulation of Dominoes",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1692/B": {
+    "name": "All Distinct",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1722/A": {
+    "name": "Spell Check",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1557/A": {
+    "name": "Ezzat and Two Subsequences",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "sortings"
+    ]
+  },
+  "894/A": {
+    "name": "QAQ",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp"
+    ]
+  },
+  "1748/A": {
+    "name": "The Ultimate Square",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1538/A": {
+    "name": "Stone Game",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "702/A": {
+    "name": "Maximum Increase",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1472/B": {
+    "name": "Fair Division",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "996/A": {
+    "name": "Hit the Lottery",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "1739/A": {
+    "name": "Immobile Knight",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1535/A": {
+    "name": "Fair Playoff",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1553/A": {
+    "name": "Digits Sum",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1690/A": {
+    "name": "Print a Pedestal (Codeforces logo?)",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1712/B": {
+    "name": "Woeful Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "1690/C": {
+    "name": "Restoring the Duration of Tasks",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1703/B": {
+    "name": "ICPC Balloons",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "1690/B": {
+    "name": "Array Decrements",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1692/A": {
+    "name": "Marathon",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1703/A": {
+    "name": "YES or YES?",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1721/A": {
+    "name": "Image",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1722/C": {
+    "name": "Word Game",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "1741/A": {
+    "name": "Compare T-Shirt Sizes",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1741/B": {
+    "name": "Funny Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1742/A": {
+    "name": "Sum",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1742/B": {
+    "name": "Increasing",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1743/A": {
+    "name": "Password",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "math"
+    ]
+  },
+  "1744/A": {
+    "name": "Number Replacement",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1722/B": {
+    "name": "Colourblindness",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1744/B": {
+    "name": "Even-Odd Increments ",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1743/B": {
+    "name": "Permutation Value",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "4/A": {
+    "name": "Watermelon",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "1746/A": {
+    "name": "Maxmina",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1746/B": {
+    "name": "Rebellion",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "1747/A": {
+    "name": "Two Groups",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1749/A": {
+    "name": "Cowardly Rooks",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1754/A": {
+    "name": "Technical Support",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1754/B": {
+    "name": "Kevin and Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1542/A": {
+    "name": "Odd Set",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1551/A": {
+    "name": "Polycarp and Coins",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1537/A": {
+    "name": "Arithmetic Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1857/A": {
+    "name": "Array Coloring",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1856/A": {
+    "name": "Tales of a Sort",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1856/B": {
+    "name": "Good Arrays",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1855/B": {
+    "name": "Longest Divisors Interval",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1855/A": {
+    "name": "Dalton the Teacher",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1851/B": {
+    "name": "Parity Sort",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1850/D": {
+    "name": "Balanced Round",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1844/B": {
+    "name": "Permutations & Primes",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "282/A": {
+    "name": "Bit++",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1850/C": {
+    "name": "Word on the Paper",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1850/B": {
+    "name": "Ten Words of Wisdom",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1850/A": {
+    "name": "To My Critics",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1682/A": {
+    "name": "Palindromic Indices",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1520/B": {
+    "name": "Ordinary Numbers",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1832/A": {
+    "name": "New Palindrome",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1844/A": {
+    "name": "Subtraction Game",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "1608/A": {
+    "name": "Find Array",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1750/A": {
+    "name": "Indirect Sort",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "1750/B": {
+    "name": "Maximum Substring",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1846/C": {
+    "name": "Rudolf and the Another Competition",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1846/B": {
+    "name": "Rudolph and Tic-Tac-Toe",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1846/A": {
+    "name": "Rudolph and Cut the Rope ",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1829/A": {
+    "name": "Love Story",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1836/A": {
+    "name": "Destroyer",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1841/A": {
+    "name": "Game with Board",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "405/A": {
+    "name": "Gravity Flip",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "133/A": {
+    "name": "HQ9+",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "160/A": {
+    "name": "Twins",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "318/A": {
+    "name": "Even Odds",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1538/B": {
+    "name": "Friends and Candies",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1749/B": {
+    "name": "Death's Blessing",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1743/C": {
+    "name": "Save the Magazines",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1744/C": {
+    "name": "Traffic Light",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1746/C": {
+    "name": "Permutation Operations",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1742/E": {
+    "name": "Scuza",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "1742/D": {
+    "name": "Coprime",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory"
+    ]
+  },
+  "1739/B": {
+    "name": "Array Recovery",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1717/A": {
+    "name": "Madoka and Strange Thoughts",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "236/A": {
+    "name": "Boy or Girl",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "281/A": {
+    "name": "Word Capitalization",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "339/A": {
+    "name": "Helpful Maths",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "112/A": {
+    "name": "Petya and Strings",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "263/A": {
+    "name": "Beautiful Matrix",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "50/A": {
+    "name": "Domino piling",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "158/A": {
+    "name": "Next Round",
+    "rating": 800,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "1/A": {
+    "name": "Theatre Square",
+    "rating": 1000,
+    "tags": [
+      "math"
+    ]
+  },
+  "1882/B": {
+    "name": "Sets and Union",
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1764/B": {
+    "name": "Doremy's Perfect Math Class",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1764/A": {
+    "name": "Doremy's Paint",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1741/C": {
+    "name": "Minimize the Thickness",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1735/A": {
+    "name": "Working Week",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1728/B": {
+    "name": "Best Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1726/A": {
+    "name": "Mainak and Array",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1719/B": {
+    "name": "Mathematical Circus",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "2021/C2": {
+    "name": "Adjust The Presentation (Hard Version)",
+    "rating": 700,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "implementation"
+    ]
+  },
+  "2021/C1": {
+    "name": "Adjust The Presentation (Easy Version)",
+    "rating": 700,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "2021/B": {
+    "name": "Maximize Mex",
+    "rating": 700,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "2021/A": {
+    "name": "Meaning Mean",
+    "rating": 700,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "2019/A": {
+    "name": "Max Plus Size",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ]
+  },
+  "2014/B": {
+    "name": "Robin Hood and the Major Oak",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "2014/C": {
+    "name": "Robin Hood in Town",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "2014/A": {
+    "name": "Robin Helps",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "2005/B2": {
+    "name": "The Strict Teacher (Hard Version)",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "2005/B1": {
+    "name": "The Strict Teacher (Easy Version)",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "2005/A": {
+    "name": "Simple Palindrome",
+    "rating": 900,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1986/D": {
+    "name": "Mathematical Problem",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1593/D1": {
+    "name": "All are Same",
+    "rating": 1100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1370/A": {
+    "name": "Maximum GCD",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1389/A": {
+    "name": "LCM Problem",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1838/B": {
+    "name": "Minimize Permutation Subarrays",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1838/C": {
+    "name": "No Prime Differences",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "937/B": {
+    "name": "Vile Grasshoppers",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "2009/F": {
+    "name": "Firefly's Queries",
+    "rating": 1700,
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "flows",
+      "math"
+    ]
+  },
+  "2003/D1": {
+    "name": "Turtle and a MEX Problem (Easy Version)",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "2009/E": {
+    "name": "Klee's SUPER DUPER LARGE Array!!!",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search"
+    ]
+  },
+  "2009/D": {
+    "name": "Satyam and Counting",
+    "rating": 1400,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "2009/C": {
+    "name": "The Legend of Freya the Frog",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "2009/B": {
+    "name": "osu!mania",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "2009/A": {
+    "name": "Minimize!",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "2008/E": {
+    "name": "Alternating String",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1999/G2": {
+    "name": "Ruler (hard version)",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "interactive",
+      "ternary search"
+    ]
+  },
+  "1999/G1": {
+    "name": "Ruler (easy version)",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "interactive"
+    ]
+  },
+  "1999/F": {
+    "name": "Expected Median",
+    "rating": 1500,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "2008/F": {
+    "name": "Sakurako's Box",
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "2008/D": {
+    "name": "Sakurako's Hobby",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "dsu",
+      "graphs",
+      "math"
+    ]
+  },
+  "2008/B": {
+    "name": "Square or Not",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "strings"
+    ]
+  },
+  "2008/C": {
+    "name": "Longest Good Array",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math"
+    ]
+  },
+  "2008/A": {
+    "name": "Sakurako's Exam",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "2007/C": {
+    "name": "Dora and C++",
+    "rating": 1500,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "2007/B": {
+    "name": "Index and Maximum Value",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "2007/A": {
+    "name": "Dora's Set",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "2010/C2": {
+    "name": "Message Transmission Error (hard version)",
+    "rating": 1700,
+    "tags": [
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "2010/C1": {
+    "name": "Message Transmission Error (easy version)",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "strings"
+    ]
+  },
+  "2010/B": {
+    "name": "Three Brothers",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "2010/A": {
+    "name": "Alternating Sum of Numbers",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "519/C": {
+    "name": "A and B and Team Training",
+    "rating": 1300,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "762/A": {
+    "name": "k-th divisor",
+    "rating": 1400,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "2003/C": {
+    "name": "Turtle and Good Pairs",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "2003/B": {
+    "name": "Turtle and Piggy Are Playing a Game 2",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "2003/A": {
+    "name": "Turtle and Good Strings",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "2001/B": {
+    "name": "Generate Permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "2001/A": {
+    "name": "Make All Equal",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "2004/C": {
+    "name": "Splitting Items",
+    "rating": 1100,
+    "tags": [
+      "games",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "2004/B": {
+    "name": "Game with Doors",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "2004/A": {
+    "name": "Closest Point",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "2000/D": {
+    "name": "Right Left Wrong",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "2000/C": {
+    "name": "Numeric String Template",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "strings"
+    ]
+  },
+  "2000/B": {
+    "name": "Seating in a Bus",
+    "rating": 800,
+    "tags": [
+      "two pointers"
+    ]
+  },
+  "2000/A": {
+    "name": "Primary Task",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "2002/C": {
+    "name": "Black Circles",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "2002/B": {
+    "name": "Removals Game",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "games"
+    ]
+  },
+  "2002/A": {
+    "name": "Distanced Coloring",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "284/A": {
+    "name": "Cows and Primitive Roots",
+    "rating": 1400,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "150/A": {
+    "name": "Win or Freeze",
+    "rating": 1400,
+    "tags": [
+      "games",
+      "math",
+      "number theory"
+    ]
+  },
+  "1998/B": {
+    "name": "Minimize Equal Sum Subarrays",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1998/A": {
+    "name": "Find K Distinct Points with Fixed Center",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "1999/B": {
+    "name": "Card Game",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1999/E": {
+    "name": "Triple Operations",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "1999/D": {
+    "name": "Slavic's Exam",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1999/C": {
+    "name": "Showering",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1999/A": {
+    "name": "A+B Again?",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1994/A": {
+    "name": "Diverse Game",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1988/C": {
+    "name": "Increasing Sequence with Fixed OR",
+    "rating": 1300,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1988/B": {
+    "name": "Make Majority",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1988/A": {
+    "name": "Split the Multiset",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1992/D": {
+    "name": "Test of Love",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1992/C": {
+    "name": "Gorilla and Permutation",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1992/B": {
+    "name": "Angry Monk",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1992/A": {
+    "name": "Only Pluses",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1983/A": {
+    "name": "Array Divisibility",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1987/B": {
+    "name": "K-Sort",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1987/A": {
+    "name": "Upload More RAM",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1989/C": {
+    "name": "Two Movies",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1989/B": {
+    "name": "Substring and Subsequence",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1989/A": {
+    "name": "Catch the Coin",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1982/C": {
+    "name": "Boring Day",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "1982/B": {
+    "name": "Collatz Conjecture",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1982/A": {
+    "name": "Soccer",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "1986/C": {
+    "name": "Update Queries",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1986/B": {
+    "name": "Matrix Stabilization",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1986/A": {
+    "name": "X Axis",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "sortings"
+    ]
+  },
+  "1883/A": {
+    "name": "Morning",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1978/C": {
+    "name": "Manhattan Permutations",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1978/B": {
+    "name": "New Bakery",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "ternary search"
+    ]
+  },
+  "1978/A": {
+    "name": "Alice and Books",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "797/B": {
+    "name": "Odd sum",
+    "rating": 1400,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "797/A": {
+    "name": "k-Factorization",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "787/A": {
+    "name": "The Monster",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "664/A": {
+    "name": "Complicated GCD",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "573/A": {
+    "name": "Bear and Poker",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "742/B": {
+    "name": "Arpa\u2019s obvious problem and Mehrdad\u2019s terrible solution",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "742/A": {
+    "name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1985/E": {
+    "name": "Secret Box",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "1985/F": {
+    "name": "Final Boss",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures"
+    ]
+  },
+  "1985/C": {
+    "name": "Good Prefixes",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1985/D": {
+    "name": "Manhattan Circle",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1985/B": {
+    "name": "Maximum Multiple Sum",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1985/A": {
+    "name": "Creating Words",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1984/C1": {
+    "name": "Magnitude (Easy Version)",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "1984/B": {
+    "name": "Large Addition",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1984/A": {
+    "name": "Strange Splitting",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1979/C": {
+    "name": "Earning on Bets",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "1979/B": {
+    "name": "XOR Sequences",
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ]
+  },
+  "1979/A": {
+    "name": "Guess the Maximum",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1931/D": {
+    "name": "Divisible Pairs",
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ]
+  },
+  "1916/B": {
+    "name": "Two Divisors",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1916/A": {
+    "name": "2023",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "633/B": {
+    "name": "A Trivial Problem",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "633/A": {
+    "name": "Ebony and Ivory",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1954/B": {
+    "name": "Make It Ugly",
+    "rating": 1200,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1954/C": {
+    "name": "Long Multiplication",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1980/E": {
+    "name": "Permutation of Rows and Columns",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "implementation",
+      "math",
+      "matrices",
+      "sortings"
+    ]
+  },
+  "1980/D": {
+    "name": "GCD-sequence",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1980/C": {
+    "name": "Sofia and the Lost Operations",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1980/B": {
+    "name": "Choosing Cubes",
+    "rating": 800,
+    "tags": [
+      "sortings",
+      "sortings"
+    ]
+  },
+  "1980/A": {
+    "name": "Problem Generator",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1976/B": {
+    "name": "Increase/Decrease/Copy",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1976/A": {
+    "name": "Verify Password",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "660/C": {
+    "name": "Hard Process",
+    "rating": 1600,
+    "tags": [
+      "binary search",
+      "dp",
+      "two pointers"
+    ]
+  },
+  "660/B": {
+    "name": "Seating On Bus",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "660/A": {
+    "name": "Co-prime Array",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "630/D": {
+    "name": "Hexagons!",
+    "rating": 1100,
+    "tags": [
+      "math"
+    ]
+  },
+  "630/R": {
+    "name": "Game",
+    "rating": 1200,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "630/C": {
+    "name": "Lucky Numbers",
+    "rating": 1100,
+    "tags": [
+      "combinatorics",
+      "math"
+    ]
+  },
+  "630/B": {
+    "name": "Moore's Law",
+    "rating": 1200,
+    "tags": [
+      "math"
+    ]
+  },
+  "630/A": {
+    "name": "Again Twenty Five!",
+    "rating": 800,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "630/J": {
+    "name": "Divisibility",
+    "rating": 1100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "755/B": {
+    "name": "PolandBall and Game",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "sortings",
+      "strings"
+    ]
+  },
+  "755/A": {
+    "name": "PolandBall and Hypothesis",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "number theory"
+    ]
+  },
+  "1977/A": {
+    "name": "Little Nikita",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1975/C": {
+    "name": "Chamo and Mocha's Array",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1975/B": {
+    "name": "378QAQ and Mocha's Array",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1975/A": {
+    "name": "Bazoka and Mocha's Array",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1447/C": {
+    "name": "Knapsack",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1447/A": {
+    "name": "Add Candies",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1447/B": {
+    "name": "Numbers Box",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1485/A": {
+    "name": "Add and Divide",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1974/C": {
+    "name": "Beautiful Triple Pairs",
+    "rating": 1400,
+    "tags": [
+      "combinatorics",
+      "data structures"
+    ]
+  },
+  "1974/B": {
+    "name": "Symmetric Encoding",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "1974/A": {
+    "name": "Phone Desktop",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1973/A": {
+    "name": "Chess For Three",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math"
+    ]
+  },
+  "1971/E": {
+    "name": "Find the Car",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "math",
+      "sortings"
+    ]
+  },
+  "1632/B": {
+    "name": "Roof Construction",
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "1971/G": {
+    "name": "XOUR",
+    "rating": 1700,
+    "tags": [
+      "data structures",
+      "dsu",
+      "sortings"
+    ]
+  },
+  "1971/D": {
+    "name": "Binary Cut",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "1971/B": {
+    "name": "Different String",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1971/C": {
+    "name": "Clock and Strings",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1971/A": {
+    "name": "My First Sorting Problem",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1950/D": {
+    "name": "Product of Binary Decimals",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "1471/A": {
+    "name": "Strange Partition",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1440/B": {
+    "name": "Sum of Medians",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1869/A": {
+    "name": "Make It Zero",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "456/B": {
+    "name": "Fedya and Maths",
+    "rating": 1200,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1831/B": {
+    "name": "Array merging",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "483/A": {
+    "name": "Counterexample ",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "766/B": {
+    "name": "Mahmoud and a Triangle",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "1968/C": {
+    "name": "Assembly via Remainders",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "1968/B": {
+    "name": "Prefiquence",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "1968/A": {
+    "name": "Maximize?",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1942/B": {
+    "name": "Bessie and MEX",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1942/A": {
+    "name": "Farmer John's Challenge",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1692/F": {
+    "name": "3SUM",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "1692/E": {
+    "name": "Binary Deque",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1607/B": {
+    "name": "Odd Grasshopper",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1692/D": {
+    "name": "The Clock",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1373/C": {
+    "name": "Pluses and Minuses",
+    "rating": 1300,
+    "tags": [
+      "math"
+    ]
+  },
+  "1950/E": {
+    "name": "Nearly Shortest Repeating Substring",
+    "rating": 1500,
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory",
+      "strings"
+    ]
+  },
+  "1675/B": {
+    "name": "Make It Increasing",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1665/B": {
+    "name": "Array Cloning Technique",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1679/A": {
+    "name": "AvtoBus",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1373/B": {
+    "name": "01 Game",
+    "rating": 900,
+    "tags": [
+      "games"
+    ]
+  },
+  "1380/B": {
+    "name": "Universal Solution",
+    "rating": 1400,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1380/A": {
+    "name": "Three Indices",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "data structures"
+    ]
+  },
+  "1374/C": {
+    "name": "Move Brackets",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1374/B": {
+    "name": "Multiply by 2, divide by 6",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1950/C": {
+    "name": "Clock Conversion",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1950/B": {
+    "name": "Upscaling",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1950/A": {
+    "name": "Stair, Peak, or Neither?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "749/A": {
+    "name": "Bachgold Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "682/A": {
+    "name": "Alyona and Numbers",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "822/A": {
+    "name": "I'm bored with life",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "361/B": {
+    "name": "Levko and Permutation",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "472/A": {
+    "name": "Design Tutorial: Learn from Math",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "271/B": {
+    "name": "Prime Matrix",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "267/A": {
+    "name": "Subtractions",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "248/B": {
+    "name": "Chilly Willy",
+    "rating": 1400,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "248/A": {
+    "name": "Cupboards",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "230/B": {
+    "name": "T-primes",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "84/A": {
+    "name": "Toy Army",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "17/A": {
+    "name": "Noldbach problem",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1945/C": {
+    "name": "Left and Right Houses",
+    "rating": 1200,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "1945/B": {
+    "name": "Fireworks",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1945/A": {
+    "name": "Setting up Camp",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1879/C": {
+    "name": "Make it Alternating",
+    "rating": 1300,
+    "tags": [
+      "combinatorics",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1941/B": {
+    "name": "Rudolf and 121",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "1941/C": {
+    "name": "Rudolf and the Ugly String",
+    "rating": 900,
+    "tags": [
+      "dp",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1941/A": {
+    "name": "Rudolf and the Ticket",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "1935/B": {
+    "name": "Informatics in MAC",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1935/A": {
+    "name": "Entertainment in MAC",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "1831/A": {
+    "name": "Twin Permutations",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1805/B": {
+    "name": "The String Has a Target",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1805/A": {
+    "name": "We Need the Zero",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "1663/C": {
+    "name": "P\u014dja Verdon",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "implementation",
+      "math"
+    ]
+  },
+  "1934/B": {
+    "name": "Yet Another Coin Problem",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "1934/A": {
+    "name": "Too Min Too Max",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1937/A": {
+    "name": "Shuffle Party",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1933/D": {
+    "name": "Turtle Tenacity: Continual Mods",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings"
+    ]
+  },
+  "1933/C": {
+    "name": "Turtle Fingers: Count the Values of k",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1933/B": {
+    "name": "Turtle Math: Fast Three Task",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1933/A": {
+    "name": "Turtle Puzzle: Rearrange and Negate",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1923/B": {
+    "name": "Monsters Attack!",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1923/C": {
+    "name": "Find B",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1923/A": {
+    "name": "Moving Chips",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1926/C": {
+    "name": "Vlad and a Sum of Sum of Digits",
+    "rating": 1200,
+    "tags": [
+      "dp",
+      "implementation"
+    ]
+  },
+  "1926/B": {
+    "name": "Vlad and Shapes",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "implementation"
+    ]
+  },
+  "1926/A": {
+    "name": "Vlad and the Best of Five",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1814/A": {
+    "name": "Coins",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1929/C": {
+    "name": "Sasha and the Casino",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "math"
+    ]
+  },
+  "1929/B": {
+    "name": "Sasha and the Drawing",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1929/A": {
+    "name": "Sasha and the Beautiful Array",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1676/E": {
+    "name": "Eating Queries",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1931/B": {
+    "name": "Make Equal",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1931/C": {
+    "name": "Make Equal Again",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "1931/A": {
+    "name": "Recovering a Small String",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "strings"
+    ]
+  },
+  "1928/A": {
+    "name": "Rectangle Cutting",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "1777/A": {
+    "name": "Everybody Likes Good Arrays!",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1927/B": {
+    "name": "Following the String",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1845/A": {
+    "name": "Forbidden Integer",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory"
+    ]
+  },
+  "1834/A": {
+    "name": "Unit Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1837/B": {
+    "name": "Comparison String",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1927/A": {
+    "name": "Make it White",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1837/A": {
+    "name": "Grasshopper on a Line",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1853/A": {
+    "name": "Desorting",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "1858/A": {
+    "name": "Buttons",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "math"
+    ]
+  },
+  "1859/A": {
+    "name": "United We Stand",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1877/B": {
+    "name": "Helmets in Night Light",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1807/D": {
+    "name": "Odd Queries",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "implementation"
+    ]
+  },
+  "1877/A": {
+    "name": "Goals of Victory",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1881/A": {
+    "name": "Don't Try to Count",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "strings"
+    ]
+  },
+  "1890/A": {
+    "name": "Doremy's Paint 3",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1896/A": {
+    "name": "Jagged Swaps",
+    "rating": 800,
+    "tags": [
+      "sortings"
+    ]
+  },
+  "1899/A": {
+    "name": "Game with Integers",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math",
+      "number theory"
+    ]
+  },
+  "1900/A": {
+    "name": "Cover in Water",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1873/D": {
+    "name": "1D Eraser",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1873/C": {
+    "name": "Target Practice",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1873/B": {
+    "name": "Good Kid",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "1873/A": {
+    "name": "Short Sort",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1903/A": {
+    "name": "Halloumi Boxes",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1915/E": {
+    "name": "Romantic Glasses",
+    "rating": 1300,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "1915/D": {
+    "name": "Unnatural Language Processing",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1915/C": {
+    "name": "Can I Square?",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "implementation"
+    ]
+  },
+  "1915/B": {
+    "name": "Not Quite Latin Square",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1915/A": {
+    "name": "Odd One Out",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "implementation"
+    ]
+  },
+  "1918/B": {
+    "name": "Minimize Inversions",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1918/A": {
+    "name": "Brick Wall",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1921/A": {
+    "name": "Square",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1919/B": {
+    "name": "Plus-Minus Split",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1919/A": {
+    "name": "Wallet Exchange",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "1907/B": {
+    "name": "YetnotherrokenKeoard",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1907/A": {
+    "name": "Rook",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1901/A": {
+    "name": "Line Trip",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1895/B": {
+    "name": "Points and Minimum Distance",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1895/A": {
+    "name": "Treasure Chest",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1875/C": {
+    "name": "Jellyfish and Green Apple",
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1875/B": {
+    "name": "Jellyfish and Game",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1875/A": {
+    "name": "Jellyfish and Undertale",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "859/A": {
+    "name": "Declined Finalists",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "147/A": {
+    "name": "Punctuation",
+    "rating": 1300,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1863/A": {
+    "name": "Channel",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1413/A": {
+    "name": "Finding Sasuke",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "898/A": {
+    "name": "Rounding",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1872/G": {
+    "name": "Replace With Product",
+    "rating": 2000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "1872/C": {
+    "name": "Non-coprime Split",
+    "rating": 1100,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1872/A": {
+    "name": "Two Vessels",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "1144/C": {
+    "name": "Two Shuffled Sequences",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "1144/B": {
+    "name": "Parity Alternated Deletions",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1143/B": {
+    "name": "Nirvana",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1862/C": {
+    "name": "Flower City Fence",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1862/B": {
+    "name": "Sequence Game",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1862/A": {
+    "name": "Gift Carpet",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1758/B": {
+    "name": "XOR = Average",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1848/A": {
+    "name": "Vika and Her Friends",
+    "rating": 900,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "1832/C": {
+    "name": "Contrast Value",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1520/D": {
+    "name": "Same Differences",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "hashing",
+      "math"
+    ]
+  },
+  "1812/B": {
+    "name": "Was it Rated?",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "*special",
+      "*special",
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1812/E": {
+    "name": "Not a Geometry Problem",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "*special",
+      "constructive algorithms",
+      "geometry",
+      "math"
+    ]
+  },
+  "1812/J": {
+    "name": "Unmysterious Language",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "1812/D": {
+    "name": "Trivial Conjecture",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1812/F": {
+    "name": "Factorization",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "number theory"
+    ]
+  },
+  "1812/A": {
+    "name": "Are You a Robot?",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "*special",
+      "*special",
+      "expression parsing",
+      "strings"
+    ]
+  },
+  "1808/C": {
+    "name": "Unlucky Numbers",
+    "rating": 1900,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1808/B": {
+    "name": "Playing in a Casino",
+    "rating": 1200,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "1808/A": {
+    "name": "Lucky Numbers",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1786/A2": {
+    "name": "Alternating Deck (hard version)",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1779/B": {
+    "name": "MKnez's ConstructiveForces Task",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1676/C": {
+    "name": "Most Similar Words",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "implementation",
+      "math",
+      "strings"
+    ]
+  },
+  "1779/A": {
+    "name": "Hall of Fame",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1770/A": {
+    "name": "Koxia and Whiteboards",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1798/B": {
+    "name": "Three Sevens",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1798/A": {
+    "name": "Showstopper",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1798/D": {
+    "name": "Shocking Arrangement",
+    "rating": 1600,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1791/F": {
+    "name": "Range Update Point Query",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures"
+    ]
+  },
+  "320/A": {
+    "name": "Magic Numbers",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "271/A": {
+    "name": "Beautiful Year",
+    "rating": 800,
+    "tags": [
+      "brute force"
+    ]
+  },
+  "313/A": {
+    "name": "Ilya and Bank Account",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "number theory"
+    ]
+  },
+  "330/A": {
+    "name": "Cakeminator",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "104255/A": {
+    "name": "Stickers for BSUIR Open",
+    "rating": 700,
+    "tags": []
+  },
+  "104257/L": {
+    "name": "League of Letters",
+    "rating": 700,
+    "tags": []
+  },
+  "104257/A": {
+    "name": "Acceptable Answer",
+    "rating": 700,
+    "tags": []
+  },
+  "1809/B": {
+    "name": "Points on Plane",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ]
+  },
+  "1809/A": {
+    "name": "Garland",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1678/A": {
+    "name": "Tokitsukaze and All Zero Sequence",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1765/E": {
+    "name": "Exchange",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "math"
+    ]
+  },
+  "1765/B": {
+    "name": "Broken Keyboard",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1765/M": {
+    "name": "Minimum LCM",
+    "rating": 1000,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1807/G2": {
+    "name": "Subsequence Addition (Hard Version)",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1807/G1": {
+    "name": "Subsequence Addition (Easy Version)",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1807/C": {
+    "name": "Find and Replace",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1807/B": {
+    "name": "Grab the Candies",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1352/D": {
+    "name": "Alice, Bob and Candies",
+    "rating": 1300,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1352/A": {
+    "name": "Sum of Round Numbers",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1806/B": {
+    "name": "Mex Master",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1806/A": {
+    "name": "Walking Master",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "1690/E": {
+    "name": "Price Maximization",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1794/A": {
+    "name": "Prefix and Suffix Array",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1730/A": {
+    "name": "Planets",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1783/A": {
+    "name": "Make it Beautiful",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings"
+    ]
+  },
+  "1758/A": {
+    "name": "SSeeeeiinngg DDoouubbllee",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "1780/A": {
+    "name": "Hayato and School",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1660/A": {
+    "name": "Vasya and Coins",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1766/A": {
+    "name": "Extremely Round",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1475/A": {
+    "name": "Odd Divisor",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1650/A": {
+    "name": "Deletions of Two Adjacent Letters",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1738/A": {
+    "name": "Glory Addicts",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1761/A": {
+    "name": "Two Permutations",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ]
+  },
+  "1802/A": {
+    "name": "Likes",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1702/D": {
+    "name": "Not a Cheap String",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1702/B": {
+    "name": "Polycarp Writes a String from Memory",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1702/A": {
+    "name": "Round Down the Price",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "961/A": {
+    "name": "Tetris",
+    "rating": 900,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "961/B": {
+    "name": "Lecture Sleep",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1695/A": {
+    "name": "Subrectangle Guess",
+    "rating": 800,
+    "tags": [
+      "games"
+    ]
+  },
+  "1775/A2": {
+    "name": "Gardener and the Capybaras (hard version)",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1768/A": {
+    "name": "Greatest Convex",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1800/C2": {
+    "name": "Powering the Hero (hard version)",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "1800/C1": {
+    "name": "Powering the Hero (easy version)",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "1800/B": {
+    "name": "Count the Number of Pairs",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1800/D": {
+    "name": "Remove Two Letters",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing",
+      "strings"
+    ]
+  },
+  "1800/A": {
+    "name": "Is It a Cat?",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1579/E1": {
+    "name": "Permutation Minimization by Deque",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1796/A": {
+    "name": "Typical Interview Problem",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1799/A": {
+    "name": "Recent Actions",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1669/D": {
+    "name": "Colorful Stamp",
+    "rating": 1100,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1669/C": {
+    "name": "Odd/Even Increments",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1669/B": {
+    "name": "Triple",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1669/A": {
+    "name": "Division?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1669/E": {
+    "name": "2-Letter Strings",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "math",
+      "strings"
+    ]
+  },
+  "1789/A": {
+    "name": "Serval and Mocha's Array",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ]
+  },
+  "1689/A": {
+    "name": "Lex String",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1776/A": {
+    "name": "Walking Boy",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1684/A": {
+    "name": "Digit Minimization",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "math",
+      "strings"
+    ]
+  },
+  "1795/B": {
+    "name": "Ideal Point",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy"
+    ]
+  },
+  "1795/A": {
+    "name": "Two Towers",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1773/F": {
+    "name": "Football",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1787/A": {
+    "name": "Exponential Equation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1778/A": {
+    "name": "Flip Flop Sum",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1740/A": {
+    "name": "Factorise N+M",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "number theory"
+    ]
+  },
+  "1781/A": {
+    "name": "Parallel Projection",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "math"
+    ]
+  },
+  "1675/A": {
+    "name": "Food for Animals",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1759/B": {
+    "name": "Lost Permutation",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1691/A": {
+    "name": "Beat The Odds",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "118/B": {
+    "name": "Present from Lena",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "118/A": {
+    "name": "String Task",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1788/A": {
+    "name": "One and Two",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "1791/G1": {
+    "name": "Teleporters (Easy Version)",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1790/C": {
+    "name": "Premutation",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "1792/A": {
+    "name": "GamingForces",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1791/D": {
+    "name": "Distinct Split",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ]
+  },
+  "1786/A1": {
+    "name": "Non-alternating Deck (easy version)",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1791/C": {
+    "name": "Prepend and Append",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1791/E": {
+    "name": "Negatives and Positives",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1790/B": {
+    "name": "Taisia and Dice",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "greedy",
+      "math"
+    ]
+  },
+  "1714/B": {
+    "name": "Remove Prefix",
+    "rating": 800,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1720/B": {
+    "name": "Interesting Sum",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1676/A": {
+    "name": "Lucky?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1721/D": {
+    "name": "Maximum AND",
+    "rating": 1800,
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "divide and conquer",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1712/C": {
+    "name": "Sort Zero",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1712/A": {
+    "name": "Wonderful Permutation",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1692/G": {
+    "name": "2^Sort",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1693/F": {
+    "name": "I Might Be Wrong",
+    "rating": 3400,
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers"
+    ]
+  },
+  "1690/D": {
+    "name": "Black and White Stripe",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1663/B": {
+    "name": "Mike's Sequence",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "divide and conquer",
+      "implementation",
+      "math"
+    ]
+  },
+  "1663/A": {
+    "name": "Who Tested?",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "expression parsing",
+      "trees"
+    ]
+  },
+  "2011/B": {
+    "name": "Shuffle",
+    "rating": 700,
+    "tags": [
+      "*special"
+    ]
+  },
+  "2011/A": {
+    "name": "Problem Solving",
+    "rating": 700,
+    "tags": [
+      "*special"
+    ]
+  },
+  "1969/B": {
+    "name": "Shifts and Sorting",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1969/A": {
+    "name": "Two Friends",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ]
+  },
+  "1932/D": {
+    "name": "Card Game",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1932/C": {
+    "name": "LR-remainders",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1932/B": {
+    "name": "Chaya Calendar",
+    "rating": 1100,
+    "tags": [
+      "number theory"
+    ]
+  },
+  "1932/A": {
+    "name": "Thorns and Coins",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1930/C": {
+    "name": "Lexicographically Largest",
+    "rating": 1700,
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1930/B": {
+    "name": "Permutation Printing",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1930/A": {
+    "name": "Maximise The Score",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1919/C": {
+    "name": "Grouping Increases",
+    "rating": 1400,
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1904/C": {
+    "name": "Array Game",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1905/A": {
+    "name": "Constructive Problems",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1566/C": {
+    "name": "MAX-MEX Cut",
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1566/B": {
+    "name": "MIN-MEX Cut",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1896/B": {
+    "name": "AB Flipping",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "1912/L": {
+    "name": "LOL Lovers",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1904/B": {
+    "name": "Collecting Game",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1913/C": {
+    "name": "Game with Multiset",
+    "rating": 1300,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1792/B": {
+    "name": "Stand-up Comedian",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1909/B": {
+    "name": "Make Almost Equal With Mod",
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "number theory"
+    ]
+  },
+  "1914/D": {
+    "name": "Three Activities",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1913/B": {
+    "name": "Swap and Delete",
+    "rating": 1000,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1917/C": {
+    "name": "Watering an Array",
+    "rating": 1600,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1917/B": {
+    "name": "Erase First or Second Letter",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "strings"
+    ]
+  },
+  "1917/A": {
+    "name": "Least Product",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1909/C": {
+    "name": "Heavy Intervals",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1909/A": {
+    "name": "Distinct Buttons",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1907/C": {
+    "name": "Removal of Unattractive Pairs",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "1914/C": {
+    "name": "Quests",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1913/A": {
+    "name": "Rating Increase",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1911/A": {
+    "name": "Spy Detected!",
+    "rating": 700,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "1902/C": {
+    "name": "Insert and Equalize",
+    "rating": 1300,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1902/B": {
+    "name": "Getting Points",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1903/B": {
+    "name": "StORage room",
+    "rating": 1200,
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1898/A": {
+    "name": "Milica and String",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1894/A": {
+    "name": "Secret Sport",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1895/C": {
+    "name": "Torn Lucky Ticket",
+    "rating": 1400,
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "implementation",
+      "math"
+    ]
+  },
+  "1890/B": {
+    "name": "Qingshan Loves Strings",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1881/B": {
+    "name": "Three Threadlets",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1878/E": {
+    "name": "Iva & Pav",
+    "rating": 1400,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy"
+    ]
+  },
+  "1879/B": {
+    "name": "Chips on the Board",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1879/A": {
+    "name": "Rigged!",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1870/A": {
+    "name": "MEXanized Array",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "898/B": {
+    "name": "Proper Nutrition",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory"
+    ]
+  },
+  "1858/C": {
+    "name": "Yet Another Permutation Problem",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory"
+    ]
+  },
+  "1851/C": {
+    "name": "Tiles Comeback",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1656/A": {
+    "name": "Good Pairs",
+    "rating": 800,
+    "tags": [
+      "math",
+      "sortings"
+    ]
+  },
+  "337/A": {
+    "name": "Puzzles",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1867/A": {
+    "name": "green_gold_dog, array and permutation",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "1364/A": {
+    "name": "XXXXX",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "data structures",
+      "number theory",
+      "two pointers"
+    ]
+  },
+  "1682/B": {
+    "name": "AND Sorting",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "sortings"
+    ]
+  },
+  "1872/B": {
+    "name": "The Corridor or There and Back Again",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1811/C": {
+    "name": "Restore the Array",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1144/A": {
+    "name": "Diverse Strings",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1141/D": {
+    "name": "Colored Boots",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1866/D": {
+    "name": "Digital Wallet",
+    "rating": 2300,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "1866/A": {
+    "name": "Ambitious Kid",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1141/A": {
+    "name": "Game 23",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1138/A": {
+    "name": "Sushi for Two",
+    "rating": 900,
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1725/B": {
+    "name": "Basketball Together",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1861/C": {
+    "name": "Queries for the Array",
+    "rating": 1600,
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "implementation",
+      "strings",
+      "trees"
+    ]
+  },
+  "1861/B": {
+    "name": "Two Binary Strings",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ]
+  },
+  "1861/A": {
+    "name": "Prime Deletion",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1863/C": {
+    "name": "MEX Repetition",
+    "rating": 1100,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1864/A": {
+    "name": "Increasing and Decreasing",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1860/A": {
+    "name": "Not a Substring",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ]
+  },
+  "1822/B": {
+    "name": "Karina and Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1822/A": {
+    "name": "TubeTube Feed",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1849/A": {
+    "name": "Morning Sandwich",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1143/A": {
+    "name": "The Doors",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1515/B": {
+    "name": "Phoenix and Puzzle",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "number theory"
+    ]
+  },
+  "1859/C": {
+    "name": "Another Permutation Problem",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "1859/B": {
+    "name": "Olya and Game with Arrays",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1365/A": {
+    "name": "Matrix Game",
+    "rating": 1100,
+    "tags": [
+      "games",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1771/A": {
+    "name": "Hossam and Combinatorics",
+    "rating": 900,
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings"
+    ]
+  },
+  "1768/C": {
+    "name": "Elemental Decompress",
+    "rating": 1300,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1768/B": {
+    "name": "Quick Sort",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1225/A": {
+    "name": "Forgetting Things",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1419/A": {
+    "name": "Digit Game",
+    "rating": 900,
+    "tags": [
+      "games",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1840/B": {
+    "name": "Binary Cafe",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math"
+    ]
+  },
+  "1844/D": {
+    "name": "Row Major",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "strings"
+    ]
+  },
+  "1844/C": {
+    "name": "Particles",
+    "rating": 1300,
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1833/B": {
+    "name": "Restore the Weather",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1847/A": {
+    "name": "The Man who became a God ",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1838/A": {
+    "name": "Blackboard List",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1839/A": {
+    "name": "The Good Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1845/B": {
+    "name": "Come Together",
+    "rating": 900,
+    "tags": [
+      "geometry",
+      "implementation",
+      "math"
+    ]
+  },
+  "2/A": {
+    "name": "Winner",
+    "rating": 1500,
+    "tags": [
+      "hashing",
+      "implementation"
+    ]
+  },
+  "41/A": {
+    "name": "Translation",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1842/B": {
+    "name": "Tenzing and Books",
+    "rating": 1100,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ]
+  },
+  "1842/A": {
+    "name": "Tenzing and Tsondu",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ]
+  },
+  "1843/C": {
+    "name": "Sum in Binary Tree",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "trees"
+    ]
+  },
+  "1843/B": {
+    "name": "Long Long",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1843/A": {
+    "name": "Sasha and Array Coloring",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1840/C": {
+    "name": "Ski Resort",
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers"
+    ]
+  },
+  "1840/A": {
+    "name": "Cipher Shifer",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "1783/B": {
+    "name": "Matrix of Differences",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1118/A": {
+    "name": "Water Buying",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1041/A": {
+    "name": "Heist",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1837/D": {
+    "name": "Bracket Coloring",
+    "rating": 1400,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1837/C": {
+    "name": "Best Binary String",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1559/A": {
+    "name": "Mocha and Math",
+    "rating": 900,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1833/C": {
+    "name": "Vlad Building Beautiful Array",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1833/A": {
+    "name": "Musical Puzzle",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1828/C": {
+    "name": "Counting Orders",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "sortings"
+    ]
+  },
+  "1828/B": {
+    "name": "Permutation Swap",
+    "rating": 900,
+    "tags": [
+      "math",
+      "number theory"
+    ]
+  },
+  "1828/A": {
+    "name": "Divisible Array",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1832/B": {
+    "name": "Maximum Sum",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1826/A": {
+    "name": "Trust Nobody",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings"
+    ]
+  },
+  "1825/A": {
+    "name": "LuoTianyi and the Palindrome String",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "strings"
+    ]
+  },
+  "1829/C": {
+    "name": "Mr. Perfectly Fine",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1486/A": {
+    "name": "Shifting Stacks",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1818/B": {
+    "name": "Indivisible",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ]
+  },
+  "1823/A": {
+    "name": "A-characteristic",
+    "rating": 800,
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1811/E": {
+    "name": "Living Sequence",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "1811/A": {
+    "name": "Insert Digit",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "strings"
+    ]
+  },
+  "1820/A": {
+    "name": "Yura's New Name",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1201/B": {
+    "name": "Zero Array",
+    "rating": 1500,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1201/A": {
+    "name": "Important Exam",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1105/A": {
+    "name": "Salem and Sticks ",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "implementation"
+    ]
+  },
+  "1766/B": {
+    "name": "Notepad#",
+    "rating": 1000,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "290/B": {
+    "name": "QR code",
+    "rating": 1500,
+    "tags": [
+      "*special",
+      "implementation"
+    ]
+  },
+  "1784/A": {
+    "name": "Monsters (easy version)",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy"
+    ]
+  },
+  "1627/A": {
+    "name": "Not Shading",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1573/B": {
+    "name": "Swaps",
+    "rating": 1400,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ]
+  },
+  "1809/D": {
+    "name": "Binary String Sorting",
+    "rating": 1800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ]
+  },
+  "1352/B": {
+    "name": "Same Parity Summands",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1804/A": {
+    "name": "Lame King",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1674/C": {
+    "name": "Infinite Replacement",
+    "rating": 1000,
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "strings"
+    ]
+  },
+  "1702/E": {
+    "name": "Split Into Two Sets",
+    "rating": 1600,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs"
+    ]
+  },
+  "1702/C": {
+    "name": "Train and Queries",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "1794/B": {
+    "name": "Not Dividing",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1796/B": {
+    "name": "Asterisk-Minor Template",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "1799/B": {
+    "name": "Equalize by Divide",
+    "rating": 1200,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ]
+  },
+  "1793/B": {
+    "name": "Fedya and Array",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1789/B": {
+    "name": "Serval and Inversion Magic",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "two pointers"
+    ]
+  },
+  "1686/C": {
+    "name": "Circular Local MiniMax",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1686/B": {
+    "name": "Odd Subarrays",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "greedy"
+    ]
+  },
+  "1697/B": {
+    "name": "Promo",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1697/A": {
+    "name": "Parkway Walk",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1689/B": {
+    "name": "Mystic Permutation",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ]
+  },
+  "1729/A": {
+    "name": "Two Elevators",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1709/A": {
+    "name": "Three Doors",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ]
+  },
+  "1795/C": {
+    "name": "Tea Tasting",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation"
+    ]
+  },
+  "1685/A": {
+    "name": "Circular Local MiniMax",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1688/A": {
+    "name": "Cirno's Perfect Bitmasks Classroom",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "1698/A": {
+    "name": "XOR Mixup",
+    "rating": 800,
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ]
+  },
+  "1686/A": {
+    "name": "Everything Everywhere All But One",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ]
+  },
+  "1782/B": {
+    "name": "Going to the Cinema",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1782/A": {
+    "name": "Parallel Projection",
+    "rating": 800,
+    "tags": [
+      "geometry",
+      "greedy",
+      "math"
+    ]
+  },
+  "1705/B": {
+    "name": "Mark the Dust Sweeper",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1705/A": {
+    "name": "Mark the Photographer",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1775/A1": {
+    "name": "Gardener and the Capybaras (easy version)",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation"
+    ]
+  },
+  "1671/A": {
+    "name": "String Building",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1767/A": {
+    "name": "Cut the Triangle",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1787/I": {
+    "name": "Treasure Hunt",
+    "rating": 3400,
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "two pointers"
+    ]
+  },
+  "1790/E": {
+    "name": "Vlad and a Pair of Numbers",
+    "rating": 1400,
+    "tags": [
+      "bitmasks",
+      "constructive algorithms"
+    ]
+  },
+  "1790/D": {
+    "name": "Matryoshkas",
+    "rating": 1200,
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ]
+  },
+  "1775/F": {
+    "name": "Laboratory on Pluto",
+    "rating": 2500,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math"
+    ]
+  },
+  "1760/E": {
+    "name": "Binary Inversions",
+    "rating": 1100,
+    "tags": [
+      "data structures",
+      "greedy",
+      "math"
+    ]
+  },
+  "1760/D": {
+    "name": "Challenging Valleys",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "two pointers"
+    ]
+  },
+  "1661/A": {
+    "name": "Array Balancing",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1665/A": {
+    "name": "GCD vs LCM",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ]
+  },
+  "1654/B": {
+    "name": "Prefix Removals",
+    "rating": 800,
+    "tags": [
+      "strings"
+    ]
+  },
+  "1644/A": {
+    "name": "Doors and Keys",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1646/A": {
+    "name": "Square Counting",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1660/B": {
+    "name": "Vlad and Candies",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1651/A": {
+    "name": "Playoff",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1650/B": {
+    "name": "DIV + MOD",
+    "rating": 900,
+    "tags": [
+      "math"
+    ]
+  },
+  "1650/E": {
+    "name": "Rescheduling the Exam",
+    "rating": 1900,
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "1649/A": {
+    "name": "Game",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1646/E": {
+    "name": "Power Board",
+    "rating": 2200,
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory"
+    ]
+  },
+  "1873/E": {
+    "name": "Building an Aquarium",
+    "rating": 1100,
+    "tags": [
+      "binary search",
+      "sortings"
+    ]
+  },
+  "1419/D2": {
+    "name": "Sage's Birthday (hard version)",
+    "rating": 1500,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers"
+    ]
+  },
+  "1731/B": {
+    "name": "Kill Demodogs",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ]
+  },
+  "1920/A": {
+    "name": "Satisfying Constraints",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ]
+  },
+  "703/A": {
+    "name": "Mishka and Game",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "486/A": {
+    "name": "Calculating Function",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1944/A": {
+    "name": "Destroying Bridges",
+    "rating": 800,
+    "tags": [
+      "graphs",
+      "greedy",
+      "math"
+    ]
+  },
+  "581/A": {
+    "name": "Vasya the Hipster",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "723/A": {
+    "name": "The New Year: Meeting Friends",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math",
+      "sortings"
+    ]
+  },
+  "151/A": {
+    "name": "Soft Drinking",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ]
+  },
+  "1154/A": {
+    "name": "Restoring Three Numbers",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "750/A": {
+    "name": "New Year and Hurry",
+    "rating": 800,
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "141/A": {
+    "name": "Amusing Joke",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings"
+    ]
+  },
+  "469/A": {
+    "name": "I Wanna Be the Guy",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "implementation"
+    ]
+  },
+  "1328/A": {
+    "name": "Divisibility Problem",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "1335/A": {
+    "name": "Candies and Two Sisters",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "785/A": {
+    "name": "Anton and Polyhedrons",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "520/A": {
+    "name": "Pangram",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "705/A": {
+    "name": "Hulk",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "228/A": {
+    "name": "Is your horseshoe on the other hoof?",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "344/A": {
+    "name": "Magnets",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "467/A": {
+    "name": "George and Accommodation",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "1030/A": {
+    "name": "In Search of an Easy Problem",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "677/A": {
+    "name": "Vanya and Fence",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "116/A": {
+    "name": "Tram",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "734/A": {
+    "name": "Anton and Danik",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "110/A": {
+    "name": "Nearly Lucky Number",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "977/A": {
+    "name": "Wrong Subtraction",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  },
+  "59/A": {
+    "name": "Word",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "strings"
+    ]
+  },
+  "546/A": {
+    "name": "Soldier and Bananas",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ]
+  },
+  "617/A": {
+    "name": "Elephant",
+    "rating": 800,
+    "tags": [
+      "math"
+    ]
+  },
+  "791/A": {
+    "name": "Bear and Big Brother",
+    "rating": 800,
+    "tags": [
+      "implementation"
+    ]
+  }
+}
